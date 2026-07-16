@@ -1,0 +1,13 @@
+[
+  {
+    "id": "modpack-cobblemon",
+    "name": "Cobblemon Normal",
+    "mcVersion": "1.20.1",
+    "loader": "forge",
+    "loaderVersion": "47.2.0",
+    "version": "1.0.0",
+    "price": 0,
+    "description": "Cobblemon modpack สำหรับเล่นปกติ",
+    "downloadUrl": "https://github.com/najaparit-gif/Cobblemon_Normal/releases/download/v1.0/Cobblemon_Normal.zip"
+  }
+]
