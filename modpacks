@@ -10,6 +10,6 @@
     "price": 0,                          // 0 = ฟรี
     "description": "Cobblemon modpack", // คำอธิบายสั้นๆ
     "newsUrl": "https://raw.githubusercontent.com/najaparit-gif/modpack-najaparit/main/news.json",
-    "downloadUrl": "https://github.com/najaparit-gif/modpack-najaparit/releases/download/v1.0/pack.zip"
+    "downloadUrl": "https://github.com/najaparit-gif/modpack-najaparit/releases/download/test/Cobblemon_Normal_v1.0.0.zip.zip"
   }
 ]
