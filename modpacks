@@ -1,15 +1,15 @@
 [
   {
     "id": "cobblemon(normal)",          // ชื่อโฟลเดอร์ instance (ห้ามมีช่องว่าง)
-    "name": "Cobblemon(Normal)",          // ชื่อที่แสดงในแอป
-    "icon": "https://raw.githubusercontent.com/najaparit-gif/Cobblemon_Normal/main/icon.png",
-    "mcVersion": "1.20.1",              // เวอร์ชัน Minecraft
-    "loader": "forge",                   // "forge" หรือ "fabric"
+    "name": "Cobblemon (Normal)",          // ชื่อที่แสดงในแอป
+    "icon": "https://raw.githubusercontent.com/najaparit-gif/modpack-najaparit/main/cobblemon-normal-icon.png",
+    "mcVersion": "1.21.1",              // เวอร์ชัน Minecraft
+    "loader": "fabric",                   // "forge" หรือ "fabric"
     "loaderVersion": "47.2.0",          // เวอร์ชัน forge/fabric
     "version": "1.0.0",                 // เวอร์ชัน modpack (แสดงใน UI)
     "price": 0,                          // 0 = ฟรี
     "description": "Cobblemon modpack", // คำอธิบายสั้นๆ
-    "newsUrl": "https://raw.githubusercontent.com/najaparit-gif/Cobblemon_Normal/main/news.json",
-    "downloadUrl": "https://github.com/najaparit-gif/Cobblemon_Normal/releases/download/v1.0/pack.zip"
+    "newsUrl": "https://raw.githubusercontent.com/najaparit-gif/modpack-najaparit/main/news.json",
+    "downloadUrl": "https://github.com/najaparit-gif/modpack-najaparit/releases/download/v1.0/pack.zip"
   }
 ]
