@@ -16,7 +16,7 @@
     "id": "island-100-day",          // ชื่อโฟลเดอร์ instance (ห้ามมีช่องว่าง)
     "name": "Island 100 Day",          // ชื่อที่แสดงในแอป
     "icon": "https://raw.githubusercontent.com/najaparit-gif/modpack-najaparit/main/island-100-day/icon.png",
-    "mcVersion": "1.21.1",              // เวอร์ชัน Minecraft
+    "mcVersion": "1.21.11",              // เวอร์ชัน Minecraft
     "loader": "fabric",                   // "forge" หรือ "fabric"
     "loaderVersion": "0.19.3",          // เวอร์ชัน forge/fabric
     "version": "1.0.0",                 // เวอร์ชัน modpack (แสดงใน UI)
