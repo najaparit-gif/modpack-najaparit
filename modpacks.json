@@ -10,7 +10,20 @@
     "price": 0,                          // 0 = ฟรี
     "description": "Cobblemon modpack", // คำอธิบายสั้นๆ
     "newsUrl": "https://raw.githubusercontent.com/najaparit-gif/modpack-najaparit/main/cobblemon(normal)/news.json",
-    "downloadUrl": "https://github.com/najaparit-gif/modpack-najaparit/releases/download/test/Cobblemon_Normal_v1.0.0.zip.zip"
+    "downloadUrl": "https://github.com/najaparit-gif/modpack-najaparit/releases/download/test/Cobblemon-Normal.zip"
+  },
+  {
+    "id": "island-100-day",          // ชื่อโฟลเดอร์ instance (ห้ามมีช่องว่าง)
+    "name": "Island 100 Day",          // ชื่อที่แสดงในแอป
+    "icon": "https://raw.githubusercontent.com/najaparit-gif/modpack-najaparit/main/island-100-day/icon.png",
+    "mcVersion": "1.21.1",              // เวอร์ชัน Minecraft
+    "loader": "fabric",                   // "forge" หรือ "fabric"
+    "loaderVersion": "0.19.3",          // เวอร์ชัน forge/fabric
+    "version": "1.0.0",                 // เวอร์ชัน modpack (แสดงใน UI)
+    "price": 0,                          // 0 = ฟรี
+    "description": "Island-100-day modpack", // คำอธิบายสั้นๆ
+    "newsUrl": "https://raw.githubusercontent.com/najaparit-gif/modpack-najaparit/main/island-100-day/news.json",
+    "downloadUrl": "https://github.com/najaparit-gif/modpack-najaparit/releases/download/test/Island-100-Day.zip"
   }
 ]
 
