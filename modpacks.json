@@ -7,7 +7,7 @@
     "loader": "fabric",                   // "forge" หรือ "fabric"
     "loaderVersion": "0.19.3",          // เวอร์ชัน forge/fabric
     "version": "2.0.0",                 // เวอร์ชัน modpack (แสดงใน UI)
-    "price": 0,                          // 0 = ฟรี
+    "price": 49,                          // 0 = ฟรี
     "description": "Cobblemon modpack", // คำอธิบายสั้นๆ
     "newsUrl": "https://raw.githubusercontent.com/najaparit-gif/modpack-najaparit/main/cobblemon(normal)/news.json",
     "downloadUrl": "https://github.com/najaparit-gif/modpack-najaparit/releases/download/test/Cobblemon-Normal.zip"
